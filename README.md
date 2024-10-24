@@ -26,4 +26,4 @@ Repositórios para armazenar as atividades da disciplina de Aprendizado de Máqu
 ## 🔍Referencias
 
 -[Abalone](https://archive.ics.uci.edu/dataset/1/abalone): Conjunto de dados para prever a idade do Abalone a partir de medidas físicas;
--[Natural Earth]([https://archive.ics.uci.edu/dataset/1/abalone](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/)): Dados vetorias de limites político administrativos;
+-[Natural Earth](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/): Dados vetorias de limites político administrativos;
